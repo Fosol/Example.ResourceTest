@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "WebResourceTest"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-WebResourceTest-e8f4bc30-c5fa-4ff9-a937-b941cd87f6e0;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
